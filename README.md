@@ -7,7 +7,7 @@ I'm a U.S.-based Full Stack Developer with a focus on [`React`] and [`TypeScript
 
 ## Experience 📚
 
-I started my programming journey around **2015**, initially with [`Java`] to learn about game development. Over the years, I moved onto [`Javascript`] to make Discord Bots, like Floof Bot. Now, I specialize in [`React`] and [`TypeScript`]. I'm also an employee at [`Progressive Victory`](https://github.com/Progressive-Victory) and a past maintainer of [`discord.js`].
+I started my programming journey around **2015**, initially with [`Java`] to learn about game development. Over the years, I moved onto [`Javascript`] to make Discord Bots, like Floof Bot. Now, I specialize in [`React`] and [`TypeScript`]. I'm a past maintainer of [`discord.js`].
 
 ### Key Notes
 
@@ -20,7 +20,7 @@ I started my programming journey around **2015**, initially with [`Java`] to lea
 Feel free to reach out to me on the following platforms:
 
 - Discord: [`okami.codes`](https://discord.com/users/879086334835298375)
-- Email: [okami@progres.win](mailto:okami@progress.win)
+- Email: [isabellafjstream@gmail.com](mailto:isabellafjstream@gmail.com)
 - Twitter: [okamicario](https://www.twitter.com/okamicario)
 
 ## Projects 🔭
