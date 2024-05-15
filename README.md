@@ -1,18 +1,18 @@
 # Hello, I'm Okami 👋  <img src="https://komarev.com/ghpvc/?username=Lewdcario" alt="" align="center" />
 
-I'm a U.S.-based Full Stack Developer with a focus on [`React`] and [`TypeScript`]. I'm also experienced in [`C++`], [`C#`], and [`Java`].
+I'm a U.S.-based Full Stack Developer with a focus on [`React`] and [`Typescript`]. I'm also experienced in [`C++`], [`C#`], and [`Java`].
 
 - Pronouns: She/Her
 - Fun Fact: I've been coding since 2015. I believe in hands-on experience as one of the most effective ways to learn.
 
 ## Experience 📚
 
-I started my programming journey around **2015**, initially with [`Java`] to learn about game development. Over the years, I moved onto [`Javascript`] to make Discord Bots, like Floof Bot. Now, I specialize in [`React`] and [`TypeScript`]. I'm a past maintainer of [`discord.js`].
+I started my programming journey around **2015**, initially with [`Java`] and [`Javascript`] to learn about game development. Over the years, I moved towards the [`Node.js`] framework to make Discord Bots, like [`Floof Bot`](https://smashcords.com/floofybot). Now, I specialize in [`React`] and [`Typescript`]. I'm a past maintainer of [`discord.js`](https://discord.js.org/), which is where a majority of my open source development went towards. I wrote sections of the guide linked previously, to make use of my customer support and documentation experience I had accrued at the time. You can see a preview of what I've done on my [`portfolio`](https://okami.codes). A lot of the current work I do is proprietary, so you can preview that on my portfolio website.
 
 ### Key Notes
 
 - Full Stack Developer
-- Specializes in [`React`] and [`TypeScript`]
+- Specializes in [`React`] and [`Typescript`]
 - Programming since 2015
 
 ## Contact 📫
@@ -27,10 +27,11 @@ Feel free to reach out to me on the following platforms:
 
 Below are some of the projects and teams I'm associated with:
 
-- [`Floof Bot`](https://www.smashcords.com/floofybot) - An essential Discord bot
+- [`Floof Bot`](https://www.smashcords.com/floofybot) - An essential Discord bot (currently not open source, but may be in the future)
 - [`smashcords.com`](https://www.smashcords.com) - A platform for Super Smash Bros enthusiasts
 - [`PV Bot`](https://github.com/Progressive-Victory/crm-bot) - The in house bot for Progressive Victory
 - [`PV Website`](https://progress.win) - The face of Progressive Victory
+- [`Portfolio`](https://okami.codes) - Preview of my fullstack engineering portfolio
 
 ### Quick Stats 📊
 
